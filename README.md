@@ -27,6 +27,3 @@ This project contains automation scripts for food order placement, utilizing Sel
 - HTML reports are generated post-execution.
 - Screenshots of failed test cases are saved in the project directory for debugging purposes.
 
-📸 Example Output:
-- Voter roll PDFs downloaded to your configured folder.
-
